@@ -1,0 +1,7 @@
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\bin\Debug\SymCryptLab2.exe.config
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\bin\Debug\SymCryptLab2.exe
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\bin\Debug\SymCryptLab2.pdb
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\obj\Debug\SymCryptLab2.csprojAssemblyReference.cache
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\obj\Debug\SymCryptLab2.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\obj\Debug\SymCryptLab2.exe
+C:\Users\nazar\source\repos\SymCryptLab2\SymCryptLab2\obj\Debug\SymCryptLab2.pdb
